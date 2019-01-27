@@ -2,7 +2,7 @@ number = 23
 running = True
 print(int(0))
 
-while running:
+while 1 == 1:
     guess = int(input('Enter an Integer: '))
 
     if guess == number:
